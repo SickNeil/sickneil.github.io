@@ -3387,14 +3387,13 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = false;
 gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects, gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects, false, runtimeScene, false);
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 /* Reuse gdjs.Base_32SceneCode.GDCarretObjects1 */
-gdjs.copyArray(runtimeScene.getObjects("PekoCDR"), gdjs.Base_32SceneCode.GDPekoCDRObjects1);
 /* Reuse gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1 */
 gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
 
 {for(var i = 0, len = gdjs.Base_32SceneCode.GDCarretObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDCarretObjects1[i].deleteFromScene(runtimeScene);
 }
-}{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects, (( gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length === 0 ) ? 0 :gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[0].getPointX("")), (( gdjs.Base_32SceneCode.GDPekoCDRObjects1.length === 0 ) ? 0 :gdjs.Base_32SceneCode.GDPekoCDRObjects1[0].getPointY("")), "");
+}{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects, (( gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length === 0 ) ? 0 :gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[0].getPointX("")), (( gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length === 0 ) ? 0 :gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[0].getPointY("")), "");
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].deleteFromScene(runtimeScene);
 }
