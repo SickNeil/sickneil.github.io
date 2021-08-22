@@ -929,10 +929,10 @@ gdjs.Base_32SceneCode.GDRibbonObjects1.length = 0;
     gdjs.Base_32SceneCode.GDNousagiObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoEmptyObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoEmptyObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoEmptyObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoEmptyObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoEmptyObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoEmptyObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects, gdjs.random(900) + 25, gdjs.random(500) + 25, "");
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDDonCyanObjects1.length ;i < len;++i) {
@@ -996,7 +996,7 @@ gdjs.Base_32SceneCode.GDPekoRObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoEmptyObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRObjects1[i].setWidth(161);
@@ -1028,10 +1028,10 @@ gdjs.Base_32SceneCode.GDPekoDObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoEmptyObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1060,10 +1060,10 @@ gdjs.Base_32SceneCode.GDPekoDeObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoEmptyObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDeObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDeObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDeObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDeObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDeObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDeObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1092,10 +1092,10 @@ gdjs.Base_32SceneCode.GDPekoCObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoEmptyObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1124,10 +1124,10 @@ gdjs.Base_32SceneCode.GDPekoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoEmptyObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1156,10 +1156,10 @@ gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1188,10 +1188,10 @@ gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1220,10 +1220,10 @@ gdjs.Base_32SceneCode.GDPekoRDObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1252,10 +1252,10 @@ gdjs.Base_32SceneCode.GDPekoRDObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1284,10 +1284,10 @@ gdjs.Base_32SceneCode.GDPekoRCObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1316,10 +1316,10 @@ gdjs.Base_32SceneCode.GDPekoRCObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1348,10 +1348,10 @@ gdjs.Base_32SceneCode.GDPekoRDeObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDeObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDeObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1380,10 +1380,10 @@ gdjs.Base_32SceneCode.GDPekoRDeObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDeObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDeObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDeObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1412,10 +1412,10 @@ gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1444,10 +1444,10 @@ gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1476,10 +1476,10 @@ gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1508,10 +1508,10 @@ gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1540,10 +1540,10 @@ gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1572,10 +1572,10 @@ gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDeObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1604,10 +1604,10 @@ gdjs.Base_32SceneCode.GDPekoCDObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1636,10 +1636,10 @@ gdjs.Base_32SceneCode.GDPekoCDObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1668,10 +1668,10 @@ gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1700,10 +1700,10 @@ gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDeObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1732,10 +1732,10 @@ gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1764,10 +1764,10 @@ gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDeObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1796,10 +1796,10 @@ gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1829,10 +1829,10 @@ gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length = 0;
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }}
 
@@ -1860,10 +1860,10 @@ gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1892,10 +1892,10 @@ gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRCObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1924,10 +1924,10 @@ gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1956,10 +1956,10 @@ gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -1988,10 +1988,10 @@ gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2020,10 +2020,10 @@ gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2052,10 +2052,10 @@ gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2084,10 +2084,10 @@ gdjs.Base_32SceneCode.GDPekoCDRObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2116,10 +2116,10 @@ gdjs.Base_32SceneCode.GDPekoCDRObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRCObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2148,10 +2148,10 @@ gdjs.Base_32SceneCode.GDPekoCDRObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2180,10 +2180,10 @@ gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2212,10 +2212,10 @@ gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2244,10 +2244,10 @@ gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2276,10 +2276,10 @@ gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRCObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2308,10 +2308,10 @@ gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2340,10 +2340,10 @@ gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2372,10 +2372,10 @@ gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2404,10 +2404,10 @@ gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2436,10 +2436,10 @@ gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2468,10 +2468,10 @@ gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2500,10 +2500,10 @@ gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2532,10 +2532,10 @@ gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2564,10 +2564,10 @@ gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2596,10 +2596,10 @@ gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2628,10 +2628,10 @@ gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2660,10 +2660,10 @@ gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2692,10 +2692,10 @@ gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2724,10 +2724,10 @@ gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2756,10 +2756,10 @@ gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2788,10 +2788,10 @@ gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2820,10 +2820,10 @@ gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2852,10 +2852,10 @@ gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(83);
+    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2884,10 +2884,10 @@ gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2916,10 +2916,10 @@ gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2948,10 +2948,10 @@ gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -2980,10 +2980,10 @@ gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3012,10 +3012,10 @@ gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3044,10 +3044,10 @@ gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3076,10 +3076,10 @@ gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3108,10 +3108,10 @@ gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3140,10 +3140,10 @@ gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3172,10 +3172,10 @@ gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3204,10 +3204,10 @@ gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3236,10 +3236,10 @@ gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3268,10 +3268,10 @@ gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3300,10 +3300,10 @@ gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3332,10 +3332,10 @@ gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3364,10 +3364,10 @@ gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3396,10 +3396,10 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3428,10 +3428,10 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3460,10 +3460,10 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3492,10 +3492,10 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
@@ -3524,10 +3524,10 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
     gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].deleteFromScene(runtimeScene);
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(161);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(165);
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
