@@ -95,14 +95,17 @@ gdjs.Base_32SceneCode.GDleftObjects1= [];
 gdjs.Base_32SceneCode.GDleftObjects2= [];
 gdjs.Base_32SceneCode.GDrightObjects1= [];
 gdjs.Base_32SceneCode.GDrightObjects2= [];
+gdjs.Base_32SceneCode.GDReplaceButtonObjects1= [];
+gdjs.Base_32SceneCode.GDReplaceButtonObjects2= [];
 
 gdjs.Base_32SceneCode.conditionTrue_0 = {val:false};
 gdjs.Base_32SceneCode.condition0IsTrue_0 = {val:false};
 gdjs.Base_32SceneCode.condition1IsTrue_0 = {val:false};
 gdjs.Base_32SceneCode.condition2IsTrue_0 = {val:false};
+gdjs.Base_32SceneCode.condition3IsTrue_0 = {val:false};
 
 
-gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDNousagiObjects1Objects = Hashtable.newFrom({"Nousagi": gdjs.Base_32SceneCode.GDNousagiObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDreamObjects1Objects = Hashtable.newFrom({"Dream": gdjs.Base_32SceneCode.GDDreamObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPlaySoundObjects1Objects = Hashtable.newFrom({"PlaySound": gdjs.Base_32SceneCode.GDPlaySoundObjects1});gdjs.Base_32SceneCode.eventsList0 = function(runtimeScene) {
+gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDNousagiObjects1Objects = Hashtable.newFrom({"Nousagi": gdjs.Base_32SceneCode.GDNousagiObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDreamObjects1Objects = Hashtable.newFrom({"Dream": gdjs.Base_32SceneCode.GDDreamObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoEmptyObjects1Objects = Hashtable.newFrom({"PekoEmpty": gdjs.Base_32SceneCode.GDPekoEmptyObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRObjects1Objects = Hashtable.newFrom({"PekoR": gdjs.Base_32SceneCode.GDPekoRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCarrotObjects1Objects = Hashtable.newFrom({"PekoCarrot": gdjs.Base_32SceneCode.GDPekoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCObjects1Objects = Hashtable.newFrom({"PekoC": gdjs.Base_32SceneCode.GDPekoCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDObjects1Objects = Hashtable.newFrom({"PekoD": gdjs.Base_32SceneCode.GDPekoDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDeObjects1Objects = Hashtable.newFrom({"PekoDe": gdjs.Base_32SceneCode.GDPekoDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDeObjects1Objects = Hashtable.newFrom({"PekoRDe": gdjs.Base_32SceneCode.GDPekoRDeObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDObjects1Objects = Hashtable.newFrom({"PekoRD": gdjs.Base_32SceneCode.GDPekoRDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCObjects1Objects = Hashtable.newFrom({"PekoRC": gdjs.Base_32SceneCode.GDPekoRCObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCarrotObjects1Objects = Hashtable.newFrom({"PekoRCarrot": gdjs.Base_32SceneCode.GDPekoRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoObjects1Objects = Hashtable.newFrom({"PekoDDeco": gdjs.Base_32SceneCode.GDPekoDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDecoCarrot": gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoObjects1Objects = Hashtable.newFrom({"PekoCDeco": gdjs.Base_32SceneCode.GDPekoCDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCCarrotObjects1Objects = Hashtable.newFrom({"PekoCCarrot": gdjs.Base_32SceneCode.GDPekoCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDObjects1Objects = Hashtable.newFrom({"PekoCD": gdjs.Base_32SceneCode.GDPekoCDObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDCarrotObjects1Objects = Hashtable.newFrom({"PekoDCarrot": gdjs.Base_32SceneCode.GDPekoDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoObjects1Objects = Hashtable.newFrom({"PekoCDDeco": gdjs.Base_32SceneCode.GDPekoCDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDRDecoObjects1Objects = Hashtable.newFrom({"PekoDRDeco": gdjs.Base_32SceneCode.GDPekoDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoDDecoCarrot": gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoObjects1Objects = Hashtable.newFrom({"PekoCRDeco": gdjs.Base_32SceneCode.GDPekoCRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDCarrotObjects1Objects = Hashtable.newFrom({"PekoCDCarrot": gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRCCarrotObjects1Objects = Hashtable.newFrom({"PekoRCCarrot": gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDCarrotObjects1Objects = Hashtable.newFrom({"PekoRDCarrot": gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRObjects1Objects = Hashtable.newFrom({"PekoCDR": gdjs.Base_32SceneCode.GDPekoCDRObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRDecoObjects1Objects = Hashtable.newFrom({"PekoCDRDeco": gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDCarretObjects1Objects = Hashtable.newFrom({"Carret": gdjs.Base_32SceneCode.GDCarretObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoRDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoRDDecoCarrot": gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDClothObjects1Objects = Hashtable.newFrom({"Cloth": gdjs.Base_32SceneCode.GDClothObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCRDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCRDecoCarrot": gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDonCyanObjects1Objects = Hashtable.newFrom({"DonCyan": gdjs.Base_32SceneCode.GDDonCyanObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDDecoCarrotObjects1Objects = Hashtable.newFrom({"PekoCDDecoCarrot": gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDRibbonObjects1Objects = Hashtable.newFrom({"Ribbon": gdjs.Base_32SceneCode.GDRibbonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoCDRCarrotObjects1Objects = Hashtable.newFrom({"PekoCDRCarrot": gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDecoObjects1Objects = Hashtable.newFrom({"Deco": gdjs.Base_32SceneCode.GDDecoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPekoObjects1Objects = Hashtable.newFrom({"Peko": gdjs.Base_32SceneCode.GDPekoObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDPlaySoundObjects1Objects = Hashtable.newFrom({"PlaySound": gdjs.Base_32SceneCode.GDPlaySoundObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDReplaceButtonObjects1Objects = Hashtable.newFrom({"ReplaceButton": gdjs.Base_32SceneCode.GDReplaceButtonObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDreamObjects1Objects = Hashtable.newFrom({"Dream": gdjs.Base_32SceneCode.GDDreamObjects1});gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDNousagiObjects1Objects = Hashtable.newFrom({"Nousagi": gdjs.Base_32SceneCode.GDNousagiObjects1});gdjs.Base_32SceneCode.eventsList0 = function(runtimeScene) {
 
 {
 
@@ -112,6 +115,7 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = false;
 gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("Arrow"), gdjs.Base_32SceneCode.GDArrowObjects1);
+gdjs.copyArray(runtimeScene.getObjects("ReplaceButton"), gdjs.Base_32SceneCode.GDReplaceButtonObjects1);
 gdjs.copyArray(runtimeScene.getObjects("down"), gdjs.Base_32SceneCode.GDdownObjects1);
 gdjs.copyArray(runtimeScene.getObjects("left"), gdjs.Base_32SceneCode.GDleftObjects1);
 gdjs.copyArray(runtimeScene.getObjects("notice"), gdjs.Base_32SceneCode.GDnoticeObjects1);
@@ -135,6 +139,9 @@ gdjs.copyArray(runtimeScene.getObjects("up"), gdjs.Base_32SceneCode.GDupObjects1
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDrightObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDrightObjects1[i].setOpacity(50);
+}
+}{for(var i = 0, len = gdjs.Base_32SceneCode.GDReplaceButtonObjects1.length ;i < len;++i) {
+    gdjs.Base_32SceneCode.GDReplaceButtonObjects1[i].setOpacity(0);
 }
 }}
 
@@ -1019,6 +1026,7 @@ gdjs.Base_32SceneCode.GDRibbonObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDArrowObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDArrowObjects1[i].hide();
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }}
 
 }
@@ -1050,6 +1058,7 @@ gdjs.Base_32SceneCode.GDPekoRObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRObjects1[i].setWidth(161);
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1082,6 +1091,7 @@ gdjs.Base_32SceneCode.GDPekoDObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1114,6 +1124,7 @@ gdjs.Base_32SceneCode.GDPekoDeObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDeObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDeObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1146,6 +1157,7 @@ gdjs.Base_32SceneCode.GDPekoCObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1178,6 +1190,7 @@ gdjs.Base_32SceneCode.GDPekoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1210,6 +1223,7 @@ gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1242,6 +1256,7 @@ gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1274,6 +1289,7 @@ gdjs.Base_32SceneCode.GDPekoRDObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1306,6 +1322,7 @@ gdjs.Base_32SceneCode.GDPekoRDObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1338,6 +1355,7 @@ gdjs.Base_32SceneCode.GDPekoRCObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1370,6 +1388,7 @@ gdjs.Base_32SceneCode.GDPekoRCObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRCObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1402,6 +1421,7 @@ gdjs.Base_32SceneCode.GDPekoRDeObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDeObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1434,6 +1454,7 @@ gdjs.Base_32SceneCode.GDPekoRDeObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDeObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDeObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1466,6 +1487,7 @@ gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1498,6 +1520,7 @@ gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1530,6 +1553,7 @@ gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1562,6 +1586,7 @@ gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1594,6 +1619,7 @@ gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1626,6 +1652,7 @@ gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1658,6 +1685,7 @@ gdjs.Base_32SceneCode.GDPekoCDObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1690,6 +1718,7 @@ gdjs.Base_32SceneCode.GDPekoCDObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1722,6 +1751,7 @@ gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1754,6 +1784,7 @@ gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1786,6 +1817,7 @@ gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1818,6 +1850,7 @@ gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1850,6 +1883,7 @@ gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1876,13 +1910,14 @@ gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDDecoObjects1[i].deleteFromScene(runtimeScene);
 }
-}{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
+}{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
 }
@@ -1914,6 +1949,7 @@ gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1946,6 +1982,7 @@ gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -1978,6 +2015,7 @@ gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2010,6 +2048,7 @@ gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2042,6 +2081,7 @@ gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2074,6 +2114,7 @@ gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2106,6 +2147,7 @@ gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2138,6 +2180,7 @@ gdjs.Base_32SceneCode.GDPekoCDRObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2170,6 +2213,7 @@ gdjs.Base_32SceneCode.GDPekoCDRObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2202,6 +2246,7 @@ gdjs.Base_32SceneCode.GDPekoCDRObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2234,6 +2279,7 @@ gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2266,6 +2312,7 @@ gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2298,6 +2345,7 @@ gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2330,6 +2378,7 @@ gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2362,6 +2411,7 @@ gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2394,6 +2444,7 @@ gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRCCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2426,6 +2477,7 @@ gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2458,6 +2510,7 @@ gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2490,6 +2543,7 @@ gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2522,6 +2576,7 @@ gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2554,6 +2609,7 @@ gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2586,6 +2642,7 @@ gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2618,6 +2675,7 @@ gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2650,6 +2708,7 @@ gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2682,6 +2741,7 @@ gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2714,6 +2774,7 @@ gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2746,6 +2807,7 @@ gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2778,6 +2840,7 @@ gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2810,6 +2873,7 @@ gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2842,6 +2906,7 @@ gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2874,6 +2939,7 @@ gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(2)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2906,6 +2972,7 @@ gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2938,6 +3005,7 @@ gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -2970,6 +3038,7 @@ gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3002,6 +3071,7 @@ gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3034,6 +3104,7 @@ gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRDecoObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3066,6 +3137,7 @@ gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3098,6 +3170,7 @@ gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3130,6 +3203,7 @@ gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3162,6 +3236,7 @@ gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoRDDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3194,6 +3269,7 @@ gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3226,6 +3302,7 @@ gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setWidth(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(3)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3258,6 +3335,7 @@ gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3290,6 +3368,7 @@ gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCRDecoCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3322,6 +3401,7 @@ gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3354,6 +3434,7 @@ gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3386,6 +3467,7 @@ gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3418,6 +3500,7 @@ gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoCDRCarrotObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3450,6 +3533,7 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3482,6 +3566,7 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3514,6 +3599,7 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3546,6 +3632,7 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3578,6 +3665,7 @@ gdjs.Base_32SceneCode.GDPekoObjects1.length = 0;
 }{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
     gdjs.Base_32SceneCode.GDPekoObjects1[i].setHeight(gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
+}{runtimeScene.getGame().getVariables().getFromIndex(9).add(1);
 }{gdjs.evtTools.sound.playMusic(runtimeScene, "collisionEffectSound.mp3", false, 100, 1);
 }}
 
@@ -3646,7 +3734,7 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableB
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("up"), gdjs.Base_32SceneCode.GDupObjects1);
 {for(var i = 0, len = gdjs.Base_32SceneCode.GDupObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDupObjects1[i].setOpacity(100);
+    gdjs.Base_32SceneCode.GDupObjects1[i].setOpacity(255);
 }
 }}
 
@@ -3662,7 +3750,7 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableB
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("up"), gdjs.Base_32SceneCode.GDupObjects1);
 {for(var i = 0, len = gdjs.Base_32SceneCode.GDupObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDupObjects1[i].setOpacity(50);
+    gdjs.Base_32SceneCode.GDupObjects1[i].setOpacity(100);
 }
 }}
 
@@ -3678,7 +3766,7 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableB
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("down"), gdjs.Base_32SceneCode.GDdownObjects1);
 {for(var i = 0, len = gdjs.Base_32SceneCode.GDdownObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDdownObjects1[i].setOpacity(100);
+    gdjs.Base_32SceneCode.GDdownObjects1[i].setOpacity(255);
 }
 }}
 
@@ -3694,7 +3782,7 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableB
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("down"), gdjs.Base_32SceneCode.GDdownObjects1);
 {for(var i = 0, len = gdjs.Base_32SceneCode.GDdownObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDdownObjects1[i].setOpacity(50);
+    gdjs.Base_32SceneCode.GDdownObjects1[i].setOpacity(100);
 }
 }}
 
@@ -3710,7 +3798,7 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableB
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("left"), gdjs.Base_32SceneCode.GDleftObjects1);
 {for(var i = 0, len = gdjs.Base_32SceneCode.GDleftObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDleftObjects1[i].setOpacity(100);
+    gdjs.Base_32SceneCode.GDleftObjects1[i].setOpacity(255);
 }
 }}
 
@@ -3726,7 +3814,7 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableB
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("left"), gdjs.Base_32SceneCode.GDleftObjects1);
 {for(var i = 0, len = gdjs.Base_32SceneCode.GDleftObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDleftObjects1[i].setOpacity(50);
+    gdjs.Base_32SceneCode.GDleftObjects1[i].setOpacity(100);
 }
 }}
 
@@ -3742,7 +3830,7 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableB
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("right"), gdjs.Base_32SceneCode.GDrightObjects1);
 {for(var i = 0, len = gdjs.Base_32SceneCode.GDrightObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDrightObjects1[i].setOpacity(100);
+    gdjs.Base_32SceneCode.GDrightObjects1[i].setOpacity(255);
 }
 }}
 
@@ -3758,7 +3846,7 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableB
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("right"), gdjs.Base_32SceneCode.GDrightObjects1);
 {for(var i = 0, len = gdjs.Base_32SceneCode.GDrightObjects1.length ;i < len;++i) {
-    gdjs.Base_32SceneCode.GDrightObjects1[i].setOpacity(50);
+    gdjs.Base_32SceneCode.GDrightObjects1[i].setOpacity(100);
 }
 }}
 
@@ -3812,6 +3900,78 @@ gdjs.Base_32SceneCode.condition0IsTrue_0.val = false;
 gdjs.Base_32SceneCode.condition0IsTrue_0.val = !(gdjs.evtTools.input.isKeyPressed(runtimeScene, "Right"));
 }if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
 {gdjs.evtTools.common.setVariableBoolean(runtimeScene.getGame().getVariables().getFromIndex(8), false);
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("ReplaceButton"), gdjs.Base_32SceneCode.GDReplaceButtonObjects1);
+
+gdjs.Base_32SceneCode.condition0IsTrue_0.val = false;
+gdjs.Base_32SceneCode.condition1IsTrue_0.val = false;
+gdjs.Base_32SceneCode.condition2IsTrue_0.val = false;
+{
+gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.input.cursorOnObject(gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDReplaceButtonObjects1Objects, runtimeScene, true, false);
+}if ( gdjs.Base_32SceneCode.condition0IsTrue_0.val ) {
+{
+gdjs.Base_32SceneCode.condition1IsTrue_0.val = gdjs.evtTools.input.isMouseButtonReleased(runtimeScene, "Left");
+}if ( gdjs.Base_32SceneCode.condition1IsTrue_0.val ) {
+{
+for(var i = 0, k = 0, l = gdjs.Base_32SceneCode.GDReplaceButtonObjects1.length;i<l;++i) {
+    if ( gdjs.Base_32SceneCode.GDReplaceButtonObjects1[i].getOpacity() > 0 ) {
+        gdjs.Base_32SceneCode.condition2IsTrue_0.val = true;
+        gdjs.Base_32SceneCode.GDReplaceButtonObjects1[k] = gdjs.Base_32SceneCode.GDReplaceButtonObjects1[i];
+        ++k;
+    }
+}
+gdjs.Base_32SceneCode.GDReplaceButtonObjects1.length = k;}}
+}
+if (gdjs.Base_32SceneCode.condition2IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("Peko"), gdjs.Base_32SceneCode.GDPekoObjects1);
+/* Reuse gdjs.Base_32SceneCode.GDReplaceButtonObjects1 */
+gdjs.Base_32SceneCode.GDDreamObjects1.length = 0;
+
+gdjs.Base_32SceneCode.GDNousagiObjects1.length = 0;
+
+{for(var i = 0, len = gdjs.Base_32SceneCode.GDPekoObjects1.length ;i < len;++i) {
+    gdjs.Base_32SceneCode.GDPekoObjects1[i].deleteFromScene(runtimeScene);
+}
+}{for(var i = 0, len = gdjs.Base_32SceneCode.GDReplaceButtonObjects1.length ;i < len;++i) {
+    gdjs.Base_32SceneCode.GDReplaceButtonObjects1[i].setOpacity(0);
+}
+}{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDDreamObjects1Objects, 912, 268, "");
+}{for(var i = 0, len = gdjs.Base_32SceneCode.GDDreamObjects1.length ;i < len;++i) {
+    gdjs.Base_32SceneCode.GDDreamObjects1[i].setHeight(110);
+}
+}{for(var i = 0, len = gdjs.Base_32SceneCode.GDDreamObjects1.length ;i < len;++i) {
+    gdjs.Base_32SceneCode.GDDreamObjects1[i].setWidth(128);
+}
+}{gdjs.evtTools.object.createObjectOnScene((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : runtimeScene), gdjs.Base_32SceneCode.mapOfGDgdjs_46Base_9532SceneCode_46GDNousagiObjects1Objects, 936, 594, "");
+}{for(var i = 0, len = gdjs.Base_32SceneCode.GDNousagiObjects1.length ;i < len;++i) {
+    gdjs.Base_32SceneCode.GDNousagiObjects1[i].setWidth(82);
+}
+}{for(var i = 0, len = gdjs.Base_32SceneCode.GDNousagiObjects1.length ;i < len;++i) {
+    gdjs.Base_32SceneCode.GDNousagiObjects1[i].setHeight(105);
+}
+}{runtimeScene.getGame().getVariables().getFromIndex(9).setNumber(0);
+}}
+
+}
+
+
+{
+
+
+gdjs.Base_32SceneCode.condition0IsTrue_0.val = false;
+{
+gdjs.Base_32SceneCode.condition0IsTrue_0.val = gdjs.evtTools.common.getVariableNumber(runtimeScene.getGame().getVariables().getFromIndex(9)) == 6;
+}if (gdjs.Base_32SceneCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("ReplaceButton"), gdjs.Base_32SceneCode.GDReplaceButtonObjects1);
+{for(var i = 0, len = gdjs.Base_32SceneCode.GDReplaceButtonObjects1.length ;i < len;++i) {
+    gdjs.Base_32SceneCode.GDReplaceButtonObjects1[i].setOpacity(255);
+}
 }}
 
 }
@@ -3918,6 +4078,8 @@ gdjs.Base_32SceneCode.GDleftObjects1.length = 0;
 gdjs.Base_32SceneCode.GDleftObjects2.length = 0;
 gdjs.Base_32SceneCode.GDrightObjects1.length = 0;
 gdjs.Base_32SceneCode.GDrightObjects2.length = 0;
+gdjs.Base_32SceneCode.GDReplaceButtonObjects1.length = 0;
+gdjs.Base_32SceneCode.GDReplaceButtonObjects2.length = 0;
 
 gdjs.Base_32SceneCode.eventsList0(runtimeScene);
 return;
