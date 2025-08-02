@@ -184,6 +184,10 @@
     height: 1px;
     margin: 10px 0;
   }
+  .splitter-thick {
+    height: 2px;
+    margin: 30px 0;
+  }
   #stampInfo, #makeupInfo {
     text-align: left;
     max-width: 800px;
@@ -219,19 +223,19 @@
   <button id="makeupStampBtn">補登蓋章</button>
   <button id="exportCardBtn">儲存為PNG檔</button>
 </div>
-<div class="splitter"></div>
+<div class="splitter-thick"></div>
 <div>
   <label id="nameLabel">姓名：</label>
   <div class="name-input-wrapper">
     <input type="text" id="nameInput" placeholder="請輸入姓名">
   </div>
 </div>
-<div>
-  <button id="stampBtn">蓋章！</button>
-</div>
 <div class="calendar" id="calendar">
   <img src="card.jpg" id="card" alt="日曆">
   <div id="nameDisplay"></div>
+</div>
+<div>
+  <button id="stampBtn">蓋章！</button>
 </div>
 
 <script>
