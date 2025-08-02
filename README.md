@@ -20,7 +20,7 @@
 **8月2日 ～ 8月16日**
 
 ### 如何使用
-1. **開啟網頁**：前往 [https://sickneil.github.io/](https://sickneil.github.io/pekomari-taisou) 
+1. **開啟網頁**：前往 [https://sickneil.github.io/pekomari-taisou](https://sickneil.github.io/pekomari-taisou) 
 2. **輸入姓名**：在姓名欄位輸入您的名字
 3. **每日蓋章**：在 8月2日至8月16日期間，每天點擊「蓋章！」按鈕
 4. **補登蓋章**：如果錯過某天，可以選擇日期後點擊「補登蓋章」
@@ -69,7 +69,7 @@ A: 可以透過匯出/匯入 JSON 檔案的方式在不同裝置間轉移記錄�
 **8月2日 ～ 8月16日**
 
 ### 使い方
-1. **ウェブページを開く**：[https://sickneil.github.io/](https://sickneil.github.io/pekomari-taisou) にアクセスする
+1. **ウェブページを開く**：[https://sickneil.github.io/pekomari-taisou](https://sickneil.github.io/pekomari-taisou) にアクセスする
 2. **名前を入力**：名前フィールドにお名前を入力します
 3. **毎日スタンプ**：8月2日から8月16日まで、毎日「スタンプ」ボタンをクリックします
 4. **補記スタンプ**：ある日を見逃した場合、日付を選択して「補記スタンプ」をクリックします
@@ -119,7 +119,7 @@ Collect stamps and have fun joining in with everyone!
 **August 2 - August 16**
 
 ### How to Use
-1. **Open webpage**：Visit [https://sickneil.github.io/](https://sickneil.github.io/pekomari-taisou)
+1. **Open webpage**：Visit [https://sickneil.github.io/pekomari-taisou](https://sickneil.github.io/pekomari-taisou)
 2. **Enter name**：Input your name in the name field
 3. **Daily stamp**：From August 2 to August 16, click the "Stamp" button daily
 4. **Makeup stamp**：If you miss a day, select the date and click "Makeup Stamp"
