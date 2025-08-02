@@ -746,7 +746,17 @@
       }).then(canvas => {
         // 將 canvas 轉成下載連結
         const link = document.createElement('a');
-        link.download = `${currentName}_廣播體操卡片_${new Date().toISOString().split('T')[0]}.png`;
+        
+        // 產生時間戳記格式 yyyyMMddHHmmss
+        const now = new Date();
+        const timestamp = now.getFullYear().toString() +
+          (now.getMonth() + 1).toString().padStart(2, '0') +
+          now.getDate().toString().padStart(2, '0') +
+          now.getHours().toString().padStart(2, '0') +
+          now.getMinutes().toString().padStart(2, '0') +
+          now.getSeconds().toString().padStart(2, '0');
+        
+        link.download = `${currentName}-pekomari-taisou-${timestamp}.png`;
         link.href = canvas.toDataURL('image/png');
         link.click();
 
