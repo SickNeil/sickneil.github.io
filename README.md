@@ -1,10 +1,4 @@
-# ぺこマリ体操蓋章卡 / ぺこマリ体操スタンプカード / PekoMari Taisou Stamp Card
-
-**立即使用 / 今すぐ使用 / Use Now: [https://sickneil.github.io/](https://sickneil.github.io/)**
-
----
-
-## 繁體中文
+## ぺこマリ体操蓋章卡
 
 ### 活動介紹
 由 Hololive Production 三期生 Usada Pekora 和 Houshou Marine 所策劃的體操活動。
@@ -26,7 +20,7 @@
 **8月2日 ～ 8月16日**
 
 ### 如何使用
-1. **開啟網頁**：前往 [https://sickneil.github.io/](https://sickneil.github.io/) 或在瀏覽器中開啟 `index.htm`
+1. **開啟網頁**：前往 [https://sickneil.github.io/](https://sickneil.github.io/) 
 2. **輸入姓名**：在姓名欄位輸入您的名字
 3. **每日蓋章**：在 8月2日至8月16日期間，每天點擊「蓋章！」按鈕
 4. **補登蓋章**：如果錯過某天，可以選擇日期後點擊「補登蓋章」
@@ -39,11 +33,7 @@
 - **記錄管理**：建議定期匯出 JSON 檔案作為備份
 - **圖片品質**：匯出的 PNG 圖片為高解析度，適合列印
 
-### 常見問題
-**Q: 可以修改蓋章的日期範圍嗎？**  
-A: 可以！修改 JavaScript 中的 `stampPositions` 物件和相關的日期檢查邏輯。
-
-**Q: 蓋章記錄會遺失嗎？**  
+### 常見問題**Q: 蓋章記錄會遺失嗎？**  
 A: 記錄儲存在瀏覽器的 LocalStorage 中，除非清除瀏覽器資料或手動清除，否則不會遺失。
 
 **Q: 可以在不同裝置間同步記錄嗎？**  
@@ -56,7 +46,7 @@ A: 可以透過匯出/匯入 JSON 檔案的方式在不同裝置間轉移記錄�
 
 ---
 
-## 日本語
+## ぺこマリ体操スタンプカード
 
 ### 活動紹介
 ホロライブ3期生の兎田ぺこらさんと宝鐘マリンさんが企画したラジオ体操です！
@@ -79,7 +69,7 @@ A: 可以透過匯出/匯入 JSON 檔案的方式在不同裝置間轉移記錄�
 **8月2日 ～ 8月16日**
 
 ### 使い方
-1. **ウェブページを開く**：[https://sickneil.github.io/](https://sickneil.github.io/) にアクセスするか、ブラウザで `index.htm` を開きます
+1. **ウェブページを開く**：[https://sickneil.github.io/](https://sickneil.github.io/) にアクセスする
 2. **名前を入力**：名前フィールドにお名前を入力します
 3. **毎日スタンプ**：8月2日から8月16日まで、毎日「スタンプ」ボタンをクリックします
 4. **補記スタンプ**：ある日を見逃した場合、日付を選択して「補記スタンプ」をクリックします
@@ -93,9 +83,6 @@ A: 可以透過匯出/匯入 JSON 檔案的方式在不同裝置間轉移記錄�
 - **画像品質**：エクスポートされるPNG画像は高解像度で、印刷に適しています
 
 ### よくある質問
-**Q: スタンプの日付範囲を変更できますか？**  
-A: はい！JavaScriptの `stampPositions` オブジェクトと関連する日付チェックロジックを変更してください。
-
 **Q: スタンプ記録は失われますか？**  
 A: 記録はブラウザのLocalStorageに保存されており、ブラウザデータを削除するか手動で削除しない限り失われません。
 
@@ -109,7 +96,7 @@ A: JSONファイルのエクスポート/インポート機能を使用して、
 
 ---
 
-## English
+## PekoMari Taisou Stamp Card
 
 ### Activity Introduction
 A radio exercise event planned by Hololive 3rd Generation members Usada Pekora and Houshou Marine!
@@ -132,7 +119,7 @@ Collect stamps and have fun joining in with everyone!
 **August 2 - August 16**
 
 ### How to Use
-1. **Open webpage**：Visit [https://sickneil.github.io/](https://sickneil.github.io/) or open `index.htm` in your browser
+1. **Open webpage**：Visit [https://sickneil.github.io/](https://sickneil.github.io/)
 2. **Enter name**：Input your name in the name field
 3. **Daily stamp**：From August 2 to August 16, click the "Stamp" button daily
 4. **Makeup stamp**：If you miss a day, select the date and click "Makeup Stamp"
@@ -146,9 +133,6 @@ Collect stamps and have fun joining in with everyone!
 - **Image Quality**：Exported PNG images are high resolution, suitable for printing
 
 ### FAQ
-**Q: Can I modify the stamp date range?**  
-A: Yes! Modify the `stampPositions` object and related date checking logic in JavaScript.
-
 **Q: Will stamp records be lost?**  
 A: Records are stored in browser's LocalStorage and won't be lost unless you clear browser data or manually clear them.
 
