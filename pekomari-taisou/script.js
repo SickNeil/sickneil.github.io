@@ -141,9 +141,9 @@ function updateLanguage(lang) {
 }
 
 const stampImgSrc = "stamp.png";
-let stampData = {}; // 內存紀錄
+let stampData = {}; // 蓋章資料
 
-// 載入本地儲存的資料
+// 載入本機儲存的資料
 function loadFromLocalStorage() {
   const saved = localStorage.getItem('stampRecord');
   if (saved) {
@@ -155,12 +155,12 @@ function loadFromLocalStorage() {
       }
       renderStamps();
     } catch (e) {
-      console.error('載入本地資料失敗:', e);
+      console.error('載入本機資料失敗:', e);
     }
   }
 }
 
-// 儲存到本地
+// 儲存到本機
 function saveToLocalStorage() {
   stampData._name = nameInput.value;
   localStorage.setItem('stampRecord', JSON.stringify(stampData));
@@ -261,13 +261,13 @@ document.getElementById("fileInput").addEventListener("change", function(evt) {
   reader.onload = function(e) {
     try {
       stampData = JSON.parse(e.target.result);
-      // 若紀錄檔中有姓名，載入
+      // 若記錄檔中有姓名，載入
       if(stampData._name){
         nameInput.value = stampData._name;
         nameDisplay.textContent = stampData._name;
       }
       renderStamps();
-      saveToLocalStorage(); // 匯入後儲存到本地
+      saveToLocalStorage(); // 匯入後存檔到本機
       initializeDateSelect(); // 更新日期選擇器
       Swal.fire({
         icon: 'success',
