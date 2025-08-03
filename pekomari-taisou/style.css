@@ -1,0 +1,216 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #f0f8ff;
+}
+
+.calendar {
+  position: relative;
+  display: inline-block;
+}
+
+.calendar #card {
+  width: 1080px;
+  height: 1300px;
+  display: block;
+  user-select: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  pointer-events: auto;
+  z-index: 0;
+}
+
+.stamp {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  transform-origin: center;
+  transition: transform 0.3s ease;
+  user-select: none;
+  -webkit-user-drag: none;
+  -khtml-user-drag: none;
+  -moz-user-drag: none;
+  -o-user-drag: none;
+  pointer-events: none;
+}
+
+#nameDisplay {
+  position: absolute;
+  top: 490px;  /* 依你的卡片圖調整位置 */
+  left: 367px; /* 依你的卡片圖調整位置 */
+  font-size: 60px;
+  font-weight: bold;
+  font-family: "微軟正黑體", sans-serif;
+  color: #2e88de;
+  pointer-events: none;
+}
+
+#stampBtn, #downloadBtn, #clearBtn {
+  margin-top: 20px;
+  border: none;
+  border-radius: 24px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  height: 32px;
+  padding: 6px 16px;
+}
+
+#stampBtn {
+  background-color: #007bff;
+  height: 150px;
+  width: 150px;
+  color: white;
+  border-radius: 75px;
+  font-size: 24px;
+}
+
+#stampBtn:hover {
+  background-color: #c72b43;
+}
+
+#stampBtn:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+}
+
+#downloadBtn {
+  background-color: #17a2b8;
+  color: white;
+}
+
+#downloadBtn:hover {
+  background-color: #117a8b;
+}
+
+#downloadBtn:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+}
+
+#exportCardBtn {
+  background-color: #f3b700;
+  color: white;
+}
+
+#exportCardBtn:hover {
+  background-color: #f4d056;
+}
+
+#exportCardBtn:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+}
+
+#clearBtn {
+  background-color: #dc3545;
+  color: white;
+}
+
+#clearBtn:hover {
+  background-color: #c82333;
+}
+
+#clearBtn:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+}
+
+#makeupStampBtn, #exportCardBtn {
+  background-color: #ff5464;
+  color: white;
+  height: 32px;
+  width: 120px;
+  border: none;
+  border-radius: 16px;
+  transition: background-color 0.3s ease;
+}
+
+#exportCardBtn {
+  background-color: #f3b700;
+}
+
+#makeupStampBtn:hover {
+  background-color: #84cbff;
+}
+
+#makeupStampBtn:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+}
+
+.name-input-wrapper {
+  position: relative;
+  display: inline-block;
+  background: linear-gradient(90deg, #b0cfec, #d1effa);
+  padding: 3px;
+  border-radius: 28px;
+  background-size: 200% 100%;
+  animation: gradientShift 4s ease infinite;
+}
+
+.name-input-wrapper:focus-within {
+  animation: gradientShift 2s ease infinite;
+}
+
+#nameInput {
+  font-family: "Microsoft JhengHei", "微軟正黑體", sans-serif;
+  color: #2e87db;
+  height: 50px;
+  width: 700px;
+  font-size: 20px;
+  border-radius: 25px;
+  padding-left: 20px;
+  position: relative;
+  background: white;
+  border: none;
+  outline: none;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 0%; }
+  50% { background-position: 100% 0%; }
+  100% { background-position: 0% 0%; }
+}
+
+#dateSelect {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+#languageSelect {
+  padding: 5px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-left: 10px;
+  background-color: white;
+}
+
+.language-switcher {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.splitter {
+  height: 1px;
+  margin: 10px 0;
+}
+
+.splitter-thick {
+  height: 2px;
+  margin: 30px 0;
+}
+
+#stampInfo, #makeupInfo {
+  text-align: left;
+  max-width: 800px;
+  margin: 10px auto;
+  padding: 0 20px;
+}
