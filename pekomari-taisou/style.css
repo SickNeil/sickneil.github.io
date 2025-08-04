@@ -36,6 +36,91 @@ body {
   pointer-events: none;
 }
 
+.particle {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.particle.sparkle {
+  background: radial-gradient(circle, #ffd700, #ffef94);
+  /* 三個動畫同時執行 */
+  animation: 
+    sparkleOpacity 2s linear forwards,               /* 透明度 */
+    sparkleTranslate 2s cubic-bezier(.17,.67,.21,.94) forwards /* 移動 */
+}
+
+.particle.heart {
+  background: #ff69b4;
+  transform: rotate(45deg);
+  animation: heartAnimation 2s cubic-bezier(0.17,0.67,0,1.03) forwards;
+}
+
+.particle.star {
+  background: #87ceeb;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  animation: starAnimation 2s cubic-bezier(0.17,0.67,0,1.03) forwards;
+}
+
+
+/* 透明度動畫：線性淡出 */
+@keyframes sparkleOpacity {
+  0%   { opacity: 1; }
+  30%  { opacity: 0.9; }
+  70%  { opacity: 0.5; }
+  100% { opacity: 0; }
+}
+
+/* 移動動畫：沿 var(--dx, --dy) 移動，速度用 cubic-bezier 控制 */
+@keyframes sparkleTranslate {
+  0% {
+    transform: translate(0,0) scale(1);
+  }
+  100% {
+    transform: translate(calc(var(--dx) * 1.2), calc(var(--dy) * 1.2)) scale(0.2);
+  }
+}
+
+/* 縮放動畫：單獨控制大小變化 */
+@keyframes sparkleScale {
+  0%   { transform: scale(0.5); }
+  40%  { transform: scale(1); }  /* 中間放大 */
+  100% { transform: scale(0.3); } /* 最後縮小 */
+}
+
+@keyframes heartAnimation {
+  0% {
+    opacity: 1;
+    transform: translate(0, 0) scale(0.3) rotate(45deg);
+  }
+  50% {
+    opacity: 0.3;
+    transform: translate(calc(var(--dx) * 1.4), calc(var(--dy) * 1.4)) scale(0.4) rotate(45deg);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(calc(var(--dx) * 2), calc(var(--dy) * 2)) scale(0.2) rotate(45deg);
+  }
+}
+
+@keyframes starAnimation {
+  0% {
+    opacity: 1;
+    transform: translate(0, 0) scale(0.4) rotate(0deg);
+  }
+  50% {
+    opacity: 0.3;
+    transform: translate(calc(var(--dx) * 1.2), calc(var(--dy) * 1.2)) scale(0.5) rotate(240deg);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(calc(var(--dx) * 1.8), calc(var(--dy) * 1.8)) scale(0.2) rotate(360deg);
+  }
+}
+
 #nameDisplay {
   position: absolute;
   top: 490px;  /* 依你的卡片圖調整位置 */

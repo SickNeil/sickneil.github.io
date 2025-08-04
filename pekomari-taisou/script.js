@@ -311,12 +311,8 @@ document.getElementById("stampBtn").addEventListener("click", () => {
     });
     return;
   }
+  createParticleEffect(day); // 添加粒子特效
   if (stampData[day]) {
-    Swal.fire({
-      icon: 'info',
-      title: languages[currentLanguage].alerts.alreadyStamped,
-      confirmButtonText: 'OK'
-    });
     return;
   }
 
@@ -331,11 +327,7 @@ document.getElementById("stampBtn").addEventListener("click", () => {
   createStamp(day, stampInfo, true);
   saveToLocalStorage(); // 蓋章後自動儲存
   initializeDateSelect(); // 更新日期選擇器
-  Swal.fire({
-    icon: 'success',
-    title: languages[currentLanguage].alerts.stampSuccess,
-    confirmButtonText: 'OK'
-  });
+  // 移除彈跳訊息
 });
 
 // --- 補登按鈕 ---
@@ -596,5 +588,49 @@ function createStamp(day, info, animate = false) {
     setTimeout(() => {
       img.style.transform = `rotate(${info.rotate}deg) scale(1)`;
     }, 10);
+  }
+}
+
+// 創建粒子特效
+function createParticleEffect(day) {
+  const pos = stampPositions[day];
+  if (!pos) return;
+
+  //const particleTypes = ['sparkle', 'heart', 'star'];
+  const particleTypes = ['sparkle'];
+  const particleCount = 8 + Math.floor(Math.random() * 5); // 8-12個粒子
+
+  for (let i = 0; i < particleCount; i++) {
+    setTimeout(() => {
+      const particle = document.createElement('div');
+      particle.className = `particle ${particleTypes[Math.floor(Math.random() * particleTypes.length)]}`;
+      
+      // 設定粒子的起始位置（印章中心）
+      const startX = pos.x + 50; // 印章中心
+      const startY = pos.y + 50;
+      
+      // 隨機方向和距離
+      const angle = (Math.PI * 2 * i) / particleCount + (Math.random() - 0.5) * 0.5;
+      const distance = 30 + Math.random() * 60;
+      const dx = Math.cos(angle) * distance;
+      const dy = Math.sin(angle) * distance;
+      
+      // 設定CSS變數用於動畫
+      particle.style.setProperty('--dx', dx + 'px');
+      particle.style.setProperty('--dy', dy + 'px');
+      
+      // 設定粒子位置
+      particle.style.left = startX + 'px';
+      particle.style.top = startY + 'px';
+      
+      calendar.appendChild(particle);
+      
+      // 動畫結束後移除粒子
+      setTimeout(() => {
+        if (particle.parentNode) {
+          particle.parentNode.removeChild(particle);
+        }
+      }, 2500); // 調整為2.5秒，匹配最長的動畫時間
+    }, 0); // 每個粒子延遲50ms出現
   }
 }
