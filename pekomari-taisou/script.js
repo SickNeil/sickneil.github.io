@@ -141,6 +141,24 @@ function updateLanguage(lang) {
 }
 
 const stampImgSrc = "stamp.png";
+// 初始化音效
+const stampSound = new Audio("stamp-sound.mp3");
+stampSound.preload = "auto";
+stampSound.volume = 0.2; // 設定音量為70%
+
+// 播放音效函數
+function playStampSound() {
+  try {
+    // 重置音效到開始位置以支援快速連續播放
+    stampSound.currentTime = 0;
+    stampSound.play().catch(error => {
+      console.log('音效播放失敗:', error);
+    });
+  } catch (error) {
+    console.log('音效初始化失敗:', error);
+  }
+}
+
 let stampData = {}; // 蓋章資料
 
 // 載入本機儲存的資料
@@ -312,6 +330,7 @@ document.getElementById("stampBtn").addEventListener("click", () => {
     return;
   }
   createParticleEffect(day); // 添加粒子特效
+  playStampSound(); // 播放蓋章音效
   if (stampData[day]) {
     return;
   }
@@ -325,6 +344,7 @@ document.getElementById("stampBtn").addEventListener("click", () => {
   stampData._name = currentName; // 紀錄姓名
 
   createStamp(day, stampInfo, true);
+  createParticleEffect(day); // 添加粒子特效
   saveToLocalStorage(); // 蓋章後自動儲存
   initializeDateSelect(); // 更新日期選擇器
   // 移除彈跳訊息
